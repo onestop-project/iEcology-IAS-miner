@@ -11,8 +11,6 @@ Project website: https://onestop-project.eu/
 
 The goal of **iEcology-IAS-miner** is to allow users to seamlessly extract data from a variety of internet platforms on invasive species mentions and process them to daily counts per species x country x platform datasets. Specifically, it creates timeseries datasets recording changes in invasive alien species (IAS) searches, mentions, posts, pageviews and activity between a given time range (worked example is 2016 - 2025) from **Wikipedia**, **Flickr**, **Youtube** and **iNaturalist** (non research observations only). Reference data on the same species x country combinations is also pulled from **EASIN** and **GBIF**. In addition, a proof-of-concept workflow for a **Flickr** to **Pl@ntNet** verified observation pipeline was set up to exemplify how iEcology data can yield high fidelity observations. 
 
-Currently this repository is still a work in progress. Soon it will be integrated within the OneSTOP repository.  
-
 | __Publications About the Library__ | TBA |
 | :--- | :--- |
 | __Packages and Releases__ |  [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Simon-Reynaert/iEcology-IAS-miner?logo=GitHub)](https://github.com/Simon-Reynaert/iEcology-IAS-miner/releases) |
