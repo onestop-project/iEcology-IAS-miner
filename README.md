@@ -1,5 +1,5 @@
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-[![Tests Passing](https://github.com/Simon-Reynaert/iEcology-IAS-miner/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/Simon-Reynaert/iEcology-IAS-miner/actions/workflows/tests.yml)
+[![Tests Passing](https://github.com/onestop-project/iEcology-IAS-miner/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/onestop-project/iEcology-IAS-miner/actions/workflows/tests.yml)
 [![Docs](https://readthedocs.org/projects/iecology-ias-miner/badge/?version=latest)](https://iecology-ias-miner.readthedocs.io/en/latest/index.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,8 +13,8 @@ The goal of **iEcology-IAS-miner** is to allow users to seamlessly extract data 
 
 | __Publications About the Library__ | TBA |
 | :--- | :--- |
-| __Packages and Releases__ |  [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Simon-Reynaert/iEcology-IAS-miner?logo=GitHub)](https://github.com/Simon-Reynaert/iEcology-IAS-miner/releases) |
-| __Pytest Test Coverage__ | [![coverage](https://img.shields.io/codecov/c/github/Simon-Reynaert/iEcology-IAS-miner/main?style=flat-square)](https://codecov.io/gh/Simon-Reynaert/iEcology-IAS-miner) |
+| __Packages and Releases__ |  [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Simon-Reynaert/iEcology-IAS-miner?logo=GitHub)](https://github.com/onestop-project/iEcology-IAS-miner/releases) |
+| __Pytest Test Coverage__ | [![coverage](https://img.shields.io/codecov/c/github/onestop-project/iEcology-IAS-miner/main?style=flat-square)](https://codecov.io/gh/Simon-Reynaert/iEcology-IAS-miner) |
 | __DOI__ | TBA |
 | __Contact Information__ | simon.reynaert@plantentuinmeise.be |
 | __Documentation__ | [![Docs](https://readthedocs.org/projects/iecology-ias-miner/badge/?version=latest)](https://iecology-ias-miner.readthedocs.io/en/latest/index.html)|
@@ -23,7 +23,7 @@ The goal of **iEcology-IAS-miner** is to allow users to seamlessly extract data 
 You can install the development version of iEcology-IAS-miner from Github with:
 ```bash
 # Clone the repository
-git clone https://github.com/Simon-Reynaert/iEcology-IAS-miner.git
+git clone https://github.com/onestop-project/iEcology-IAS-miner.git
 cd iEcology-IAS-miner
 
 # Optional: create a virtual environment (highly recommended!)
