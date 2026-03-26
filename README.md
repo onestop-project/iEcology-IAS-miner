@@ -13,7 +13,7 @@ The goal of **iEcology-IAS-miner** is to allow users to seamlessly extract data 
 
 | __Publications About the Library__ | TBA |
 | :--- | :--- |
-| __Packages and Releases__ |  [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Simon-Reynaert/iEcology-IAS-miner?logo=GitHub)](https://github.com/onestop-project/iEcology-IAS-miner/releases) |
+| __Packages and Releases__ |  [![GitHub release (latest by date)](https://img.shields.io/github/v/release/onestop-project/iEcology-IAS-miner?logo=GitHub)](https://github.com/onestop-project/iEcology-IAS-miner/releases) |
 | __Pytest Test Coverage__ | [![coverage](https://img.shields.io/codecov/c/github/onestop-project/iEcology-IAS-miner/main?style=flat-square)](https://codecov.io/gh/Simon-Reynaert/iEcology-IAS-miner) |
 | __DOI__ | TBA |
 | __Contact Information__ | simon.reynaert@plantentuinmeise.be |
